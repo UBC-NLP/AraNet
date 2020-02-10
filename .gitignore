@@ -1,0 +1,10 @@
+.idea
+.ipynb_checkpoints
+venv/
+build/
+dist/
+test/
+aranet/.ipynb_checkpoints
+aranet/venv/
+aranet/__pycache__
+aranet.egg-info/
