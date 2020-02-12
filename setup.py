@@ -12,7 +12,7 @@ setup(name='aranet',
           'tensorflow>=2.0',
           'torch',
           'sklearn',
-          'transformers', 'keras', 'pandas', 'numpy'
+          'transformers==2.3.0', 'keras', 'pandas', 'numpy'
       ],
 
       entry_points={
