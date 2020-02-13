@@ -35,6 +35,9 @@ class AraNet():
         try:
             self.__tokenizer = BertTokenizer.from_pretrained(model_path, do_lower_case=True)
             self.__model = BertForSequenceClassification.from_pretrained(pretrained_model_name_or_path=model_path)
+            
+            self.__model = self.__model.to(self.__device)
+            
         except Exception as e:
             raise Exception ("Couldn't load the model", e)
 
