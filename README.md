@@ -1,7 +1,7 @@
 # AraNet
 
-Reference:
-Please cite: 
+## Reference:
+Please cite our work: 
 ```
 @inproceedings{abdul2020aranet,
   title={AraNet: A Deep Learning Toolkit for Arabic Social Media},
