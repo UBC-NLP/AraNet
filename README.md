@@ -14,6 +14,12 @@
  - [Irony](https://drive.google.com/file/d/1TbaJ1_KRMPfGObdxBU3dCI6D-erWhIcQ/view?usp=sharing)
  - Gender
  - Age
+## How to use
+- load the model
+`from aranet import aranet`\
+`#load AraNet dialect model
+model_path = "./models/dialect_aranet/"
+dialect_obj = aranet.AraNet(model_path)`
 ## Reference:
 Please cite our work: 
 ```
