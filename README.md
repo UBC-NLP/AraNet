@@ -23,16 +23,28 @@
  - Age
 ## How to use
 You can easily add AraNet in your code
+(1) load the model
+You can pass a file 
+``` python
+from aranet import aranet`
+dialect_obj = aranet.AraNet(model_path)
+```
+(2) predict one sentance
+``` python
+dialect_obj.predict(text=text_str)
+```
+(3) You can pass a file 
+dialect_obj.predict(path=file_path)
+
 ### Dialect 
 ```python
-from aranet import aranet`
 `#load AraNet dialect model
 model_path = "./models/dialect_aranet/"
 dialect_obj = aranet.AraNet(model_path)
 ```
 ``` python
-tweet_text="انا هاخد ده لو سمحت"
-dialect_obj.predict(text=tweet_text)
+text_str="انا هاخد ده لو سمحت"
+dialect_obj.predict(text=text_str)
 ```
 [('Egypt', 0.9993844)]
 ``` python
@@ -77,10 +89,7 @@ text_str ="لم اعرف المستحيل يوما"
 emo_obj.predict(text=text_str)
 ```
 [('trust', 0.27242294)]
-You can pass a file 
-``` python
-dialect_obj.predict(path=file_path)
-```
+
 ## Reference:
 Please cite our work: 
 ```
