@@ -1,4 +1,4 @@
-![AraNet](Aranet2.png)
+![AraNet](https://github.com/UBC-NLP/AraNet/blob/master/AraNet2.png)
 
 # AraNet: A Deep Learning Toolkit for Arabic Social Media
 <img src="Aranet.png" width="100" align="left">  
