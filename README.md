@@ -1,10 +1,10 @@
 # AraNet
 ## Download models
- - Dialect [download](https://drive.google.com/file/d/1JMQ10O5tlVKwMW9sbsUvWVpnWyuVAyz9/view?usp=sharing)
- - Emotion [download](https://drive.google.com/file/d/191wozliqkD29jyDiTnrvKv28fUyS_st3/view?usp=sharing)
- - Irony [download] (https://drive.google.com/file/d/1TbaJ1_KRMPfGObdxBU3dCI6D-erWhIcQ/view?usp=sharing)
- - Gender [download](https://drive.google.com/file/d/18tjiQy2XNiguQgG38jzuELZa5JKEPydE/view?usp=sharing)
- - Age []()
+ - [Dialect](https://drive.google.com/file/d/1JMQ10O5tlVKwMW9sbsUvWVpnWyuVAyz9/view?usp=sharing)
+ - [Emotion](https://drive.google.com/file/d/191wozliqkD29jyDiTnrvKv28fUyS_st3/view?usp=sharing)
+ - [Irony](https://drive.google.com/file/d/1TbaJ1_KRMPfGObdxBU3dCI6D-erWhIcQ/view?usp=sharing)
+ - [Gender](https://drive.google.com/file/d/18tjiQy2XNiguQgG38jzuELZa5JKEPydE/view?usp=sharing)
+ - [Age]()
 ## Reference:
 Please cite our work: 
 ```
