@@ -33,7 +33,7 @@ dialect_obj = aranet.AraNet(model_path)
 ``` python
 dialect_obj.predict(text=text_str)
 ```
-**You can pass a file/batch**
+**Load from file/batch**
 ``` python
 dialect_obj.predict(path=file_path)
 ```
