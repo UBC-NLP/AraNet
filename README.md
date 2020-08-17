@@ -99,8 +99,7 @@ emo_obj.predict(text=text_str)
 ```
 [('trust', 0.27242294)]
 
-### Load from file
-**You can pass a file/batch**
+### Load from file/batch
 ``` python
 input_text file: sentance a line, for example
 --------------
