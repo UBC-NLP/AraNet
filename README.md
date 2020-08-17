@@ -19,6 +19,7 @@ AraNet, a deep learning toolkit for a host of Arabic social media processing. Ar
  - Gender
  - Age
 ## How to use
+You can easily add AraNet in your code
 ### Dialect 
 ```python
 from aranet import aranet`
