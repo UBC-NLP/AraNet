@@ -1,5 +1,6 @@
 # AraNet
-
+## ownload models
+Dialect [https://drive.google.com/file/d/1JMQ10O5tlVKwMW9sbsUvWVpnWyuVAyz9/view?usp=sharing](click here)
 ## Reference:
 Please cite our work: 
 ```
