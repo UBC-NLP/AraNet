@@ -25,7 +25,6 @@
 You can easily add AraNet in your code
 
 **load the model**
-You can pass a file 
 ``` python
 from aranet import aranet`
 dialect_obj = aranet.AraNet(model_path)
