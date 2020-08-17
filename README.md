@@ -1,5 +1,4 @@
 <img src="Aranet.png" width="100" align="left"/>  
-
 # AraNet: A Deep Learning Toolkit for Arabic Social Media
 AraNet, a deep learning toolkit for a host of Arabic social media processing. AraNet predicts age, dialect, gender, emotion, irony, and sentiment from social media posts.
 ## How to install
