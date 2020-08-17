@@ -1,4 +1,5 @@
-# AraNet
+# AraNet: A Deep Learning Toolkit for Arabic Social Media
+
 ## How to install
  - Using pip\
   `pip install git+https://github.com/UBC-NLP/aranet`
