@@ -21,12 +21,20 @@ from aranet import aranet`
 `#load AraNet dialect model
 model_path = "./models/dialect_aranet/"
 dialect_obj = aranet.AraNet(model_path)
-```
-```python
 tweet_text="انا هاخد ده لو سمحت"
 dialect_obj.predict(text=tweet_text)
 ```
 [('Egypt', 0.9993844)]
+``` python
+text_str="العشا اليوم كان عند الشيخ علي حمدي الحداد ، لمؤخذة بقى على الخيانة ، ايش مشاك غادي"
+dialect_obj.predict(text=text_str)
+```
+[('Libya', 0.763)]
+```python
+text_str ="يعيشك برقا"
+dialect_obj.predict(text=text_str)
+```
+[('Tunisia', 0.998887)]
 ## Reference:
 Please cite our work: 
 ```
