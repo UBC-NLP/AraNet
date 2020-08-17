@@ -47,7 +47,7 @@ dialect_obj.predict(path=file_path)
 ## Examples
 ### Dialect 
 ```python
-`#load AraNet dialect model
+#load AraNet dialect model
 model_path = "./models/dialect_aranet/"
 dialect_obj = aranet.AraNet(model_path)
 ```
