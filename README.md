@@ -22,18 +22,18 @@
  - Gender
  - Age
 ## How to use
-You can easily add AraNet in your code
-(1) load the model
+You can easily add AraNet in your code\
+**(1) load the model**
 You can pass a file 
 ``` python
 from aranet import aranet`
 dialect_obj = aranet.AraNet(model_path)
 ```
-(2) predict one sentance
+**predict one sentance**
 ``` python
 dialect_obj.predict(text=text_str)
 ```
-(3) You can pass a file 
+**You can pass a file**
 ``` python
 dialect_obj.predict(path=file_path)
 ```
