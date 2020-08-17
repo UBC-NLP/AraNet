@@ -22,7 +22,7 @@
  - Gender
  - Age
 ## How to use
-You can easily add AraNet in your code
+*You can easily add AraNet in your code*
 
 **load the model**
 ``` python
@@ -36,6 +36,13 @@ dialect_obj.predict(text=text_str)
 **You can pass a file**
 ``` python
 dialect_obj.predict(path=file_path)
+```
+
+*You can use AraNet from Terminal*
+```shell
+!python ./aranet/aranet.py \
+    --path model_path \
+    --batch file_path
 ```
 ## Examples
 ### Dialect 
