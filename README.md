@@ -15,12 +15,14 @@
  - Gender
  - Age
 ## How to use
-- load the model
+### Dialect 
 ```python
 from aranet import aranet`
 `#load AraNet dialect model
 model_path = "./models/dialect_aranet/"
 dialect_obj = aranet.AraNet(model_path)
+```
+``` python
 tweet_text="انا هاخد ده لو سمحت"
 dialect_obj.predict(text=tweet_text)
 ```
@@ -35,6 +37,38 @@ text_str ="يعيشك برقا"
 dialect_obj.predict(text=text_str)
 ```
 [('Tunisia', 0.998887)]
+### Sentiment 
+```python
+#load AraNet sentiment model
+model_path = "./models/sentiment_aranet/"
+senti_obj = aranet.AraNet(model_path)
+```
+```python
+text_str ="ما اكره واحد قد هذا المنافق"
+senti_obj.predict(text=text_str)
+```
+[('neg', 0.8975404)]
+```python
+text_str ="يعيشك برقا"
+senti_obj.predict(text=text_str)
+```
+[('pos', 0.747435)]
+### Emotion
+```python
+#load AraNet emotion model
+model_path = "./models/emotion_aranet/"
+emo_obj = aranet.AraNet(model_path) 
+```
+```python
+text_str ="الله عليكي و انتي دائما مفرحانا"
+emo_obj.predict(text=text_str)
+```
+[('happy', 0.89688617)]
+```python
+text_str ="لم اعرف المستحيل يوما"
+emo_obj.predict(text=text_str)
+```
+[('trust', 0.27242294)]
 ## Reference:
 Please cite our work: 
 ```
