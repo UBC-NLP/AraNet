@@ -3,7 +3,7 @@
 AraNet, a deep learning toolkit for a host of Arabic social media processing. AraNet predicts age, dialect, gender, emotion, irony, and sentiment from social media posts.
 \
 \
-\
+
 ## How to install
  - Using pip
  ```shell
