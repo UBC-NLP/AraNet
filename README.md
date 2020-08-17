@@ -23,7 +23,8 @@
  - Age
 ## How to use
 You can easily add AraNet in your code
-**(1) load the model**
+
+**load the model**
 You can pass a file 
 ``` python
 from aranet import aranet`
