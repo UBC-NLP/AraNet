@@ -108,12 +108,14 @@ gender_obj.predict(text=text_str)
 ```
 [('female', 0.8405795)]
 ### Load from file/batch
-``` python
+``` 
 input_text file: sentance a line, for example
 --------------
 انا هاخد ده لو سمحت
 العشا اليوم كان عند الشيخ علي حمدي الحداد ، لمؤخذة بقى على الخيانة ، ايش مشاك غادي
 ----------------
+```
+``` python
 model_path = "./models/dialect_aranet/"
 dialect_obj = aranet.AraNet(model_path)
 dialect_obj.predict(path=file_path)
