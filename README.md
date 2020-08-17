@@ -26,7 +26,7 @@
 
 **load the model**
 ``` python
-from aranet import aranet`
+from aranet import aranet
 dialect_obj = aranet.AraNet(model_path)
 ```
 **predict one sentance**
