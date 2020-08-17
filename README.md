@@ -9,10 +9,10 @@ AraNet, a deep learning toolkit for a host of Arabic social media processing. Ar
   `pip install .`
 
 ## Download models
- - [Sentiment](https://drive.google.com/file/d/13_2OtzLDCPsVa3lLvPLmgzY-7mA9BeXM/view?usp=sharing)
- - [Dialect](https://drive.google.com/file/d/1JMQ10O5tlVKwMW9sbsUvWVpnWyuVAyz9/view?usp=sharing)
- - [Emotion](https://drive.google.com/file/d/191wozliqkD29jyDiTnrvKv28fUyS_st3/view?usp=sharing)
- - [Irony](https://drive.google.com/file/d/1TbaJ1_KRMPfGObdxBU3dCI6D-erWhIcQ/view?usp=sharing)
+ - [Sentiment](https://drive.google.com/file/d/1W5171aT-1rYwK2iQyKGF0C2kT1UPjq11/view?usp=sharing)
+ - [Dialect](https://drive.google.com/file/d/1e85Y1bhvPc9yjwKq-lSIewHIRgCDa4YS/view?usp=sharing)
+ - [Emotion](https://drive.google.com/file/d/1D1nvw715Yp_yK6XYYPfUxnxygfPEEK2k/view?usp=sharing)
+ - [Irony](https://drive.google.com/file/d/1FzWmCNISoWwGJbdNM65frDJi4QVs_-g1/view?usp=sharing)
  - Gender
  - Age
 ## How to use
