@@ -2,10 +2,11 @@
 ## How to install
 `pip install git+https://github.com/UBC-NLP/aranet`
 ## Download models
+ - [Sentiment](https://drive.google.com/file/d/13_2OtzLDCPsVa3lLvPLmgzY-7mA9BeXM/view?usp=sharing)
  - [Dialect](https://drive.google.com/file/d/1JMQ10O5tlVKwMW9sbsUvWVpnWyuVAyz9/view?usp=sharing)
  - [Emotion](https://drive.google.com/file/d/191wozliqkD29jyDiTnrvKv28fUyS_st3/view?usp=sharing)
  - [Irony](https://drive.google.com/file/d/1TbaJ1_KRMPfGObdxBU3dCI6D-erWhIcQ/view?usp=sharing)
- - [Gender](https://drive.google.com/file/d/18tjiQy2XNiguQgG38jzuELZa5JKEPydE/view?usp=sharing)
+ - Gender
  - Age
 ## Reference:
 Please cite our work: 
