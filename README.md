@@ -22,6 +22,11 @@ from aranet import aranet`
 model_path = "./models/dialect_aranet/"
 dialect_obj = aranet.AraNet(model_path)
 ```
+```python
+tweet_text="انا هاخد ده لو سمحت"
+dialect_obj.predict(text=tweet_text)
+```
+[('Egypt', 0.9993844)]
 ## Reference:
 Please cite our work: 
 ```
