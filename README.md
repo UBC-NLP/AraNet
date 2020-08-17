@@ -33,7 +33,7 @@ dialect_obj = aranet.AraNet(model_path)
 ``` python
 dialect_obj.predict(text=text_str)
 ```
-**You can pass a file**
+**You can pass a file/batch**
 ``` python
 dialect_obj.predict(path=file_path)
 ```
@@ -99,7 +99,11 @@ emo_obj.predict(text=text_str)
 ```
 [('trust', 0.27242294)]
 
-## Reference:
+# Inquiries?
+`If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.`
+
+---
+## Reference/Citation:
 Please cite our work: 
 ```
 @inproceedings{mageed2020aranet,
