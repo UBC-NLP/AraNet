@@ -34,8 +34,10 @@ dialect_obj = aranet.AraNet(model_path)
 dialect_obj.predict(text=text_str)
 ```
 (3) You can pass a file 
+``` python
 dialect_obj.predict(path=file_path)
-
+```
+## Examples
 ### Dialect 
 ```python
 `#load AraNet dialect model
