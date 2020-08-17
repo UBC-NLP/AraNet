@@ -99,6 +99,20 @@ emo_obj.predict(text=text_str)
 ```
 [('trust', 0.27242294)]
 
+### Load from file
+**You can pass a file/batch**
+``` python
+input_text file
+--------------
+انا هاخد ده لو سمحت
+العشا اليوم كان عند الشيخ علي حمدي الحداد ، لمؤخذة بقى على الخيانة ، ايش مشاك غادي
+----------------
+model_path = "./models/dialect_aranet/"
+dialect_obj = aranet.AraNet(model_path)
+dialect_obj.predict(path=file_path)
+```
+[('Egypt', 0.9993844), ('Libya', 0.76300025)]
+
 # Inquiries?
 If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.
 
