@@ -1,11 +1,11 @@
 # AraNet
 ## How to install
-Using pip
-  `pip install git+https://github.com/UBC-NLP/aranet`
-Clone and install
-  `git clone https://github.com/UBC-NLP/aranet`
-  `cd aranet`
-  `pip install .`
+Using pip\
+  `pip install git+https://github.com/UBC-NLP/aranet`\
+Clone and install\
+  `git clone https://github.com/UBC-NLP/aranet`\
+  `cd aranet`\
+  `pip install .`\
 
 ## Download models
  - [Sentiment](https://drive.google.com/file/d/13_2OtzLDCPsVa3lLvPLmgzY-7mA9BeXM/view?usp=sharing)
