@@ -100,7 +100,9 @@ emo_obj.predict(text=text_str)
 [('trust', 0.27242294)]
 
 # Inquiries?
-`If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.`
+```
+If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.
+```
 
 ---
 ## Reference/Citation:
