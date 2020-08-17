@@ -16,10 +16,12 @@
  - Age
 ## How to use
 - load the model
-```from aranet import aranet`\
-`#load AraNet dialect model\
-model_path = "./models/dialect_aranet/"\
-dialect_obj = aranet.AraNet(model_path)```
+```python
+from aranet import aranet`
+`#load AraNet dialect model
+model_path = "./models/dialect_aranet/"
+dialect_obj = aranet.AraNet(model_path)
+```
 ## Reference:
 Please cite our work: 
 ```
