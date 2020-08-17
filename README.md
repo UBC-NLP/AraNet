@@ -98,7 +98,15 @@ text_str ="لم اعرف المستحيل يوما"
 emo_obj.predict(text=text_str)
 ```
 [('trust', 0.27242294)]
-
+### Gender
+```python
+#load AraNet gender model
+model_path = "./models/gender_aranet/"
+gender_obj = aranet.AraNet(model_path)
+text_str ="الله عليكي و انتي دائما مفرحانا"
+gender_obj.predict(text=text_str)
+```
+[('female', 0.8405795)]
 ### Load from file/batch
 ``` python
 input_text file: sentance a line, for example
