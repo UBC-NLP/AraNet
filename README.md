@@ -102,7 +102,7 @@ emo_obj.predict(text=text_str)
 ### Load from file
 **You can pass a file/batch**
 ``` python
-input_text file
+input_text file: sentance a line, for example
 --------------
 انا هاخد ده لو سمحت
 العشا اليوم كان عند الشيخ علي حمدي الحداد ، لمؤخذة بقى على الخيانة ، ايش مشاك غادي
