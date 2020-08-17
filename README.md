@@ -1,7 +1,7 @@
 # AraNet
 ## How to install
 - Using pip
-  `pip install git+https://github.com/UBC-NLP/aranet`
+    `pip install git+https://github.com/UBC-NLP/aranet`
 - Clone and install
   `git clone https://github.com/UBC-NLP/aranet`
   `cd aranet`
