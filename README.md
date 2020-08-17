@@ -77,6 +77,10 @@ text_str ="لم اعرف المستحيل يوما"
 emo_obj.predict(text=text_str)
 ```
 [('trust', 0.27242294)]
+You can pass a file 
+``` python
+dialect_obj.predict(path=file_path)
+```
 ## Reference:
 Please cite our work: 
 ```
