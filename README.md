@@ -22,7 +22,7 @@
  - Gender
  - Age
 ## How to use
-You can easily add AraNet in your code\
+You can easily add AraNet in your code
 **(1) load the model**
 You can pass a file 
 ``` python
