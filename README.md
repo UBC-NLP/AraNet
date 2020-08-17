@@ -1,13 +1,16 @@
 # AraNet: A Deep Learning Toolkit for Arabic Social Media
 AraNet, a deep learning toolkit for a host of Arabic social media processing. AraNet predicts age, dialect, gender, emotion, irony, and sentiment from social media posts.
 ## How to install
- - Using pip\
-  `pip install git+https://github.com/UBC-NLP/aranet`
- - Clone and install\
-  `git clone https://github.com/UBC-NLP/aranet`\
-  `cd aranet`\
-  `pip install .`
-
+ - Using pip
+ ```
+  pip install git+https://github.com/UBC-NLP/aranet
+ ```
+ - Clone and install
+ ```
+  git clone https://github.com/UBC-NLP/aranet
+  cd aranet
+  pip install .
+```
 ## Download models
  - [Sentiment](https://drive.google.com/file/d/1W5171aT-1rYwK2iQyKGF0C2kT1UPjq11/view?usp=sharing)
  - [Dialect](https://drive.google.com/file/d/1e85Y1bhvPc9yjwKq-lSIewHIRgCDa4YS/view?usp=sharing)
