@@ -132,10 +132,7 @@ Please cite our work:
 ```
 @inproceedings{abdul-mageed-etal-2020-aranet,
     title = "{A}ra{N}et: A Deep Learning Toolkit for {A}rabic Social Media",
-    author = "Abdul-Mageed, Muhammad  and
-      Zhang, Chiyu  and
-      Hashemi, Azadeh  and
-      Nagoudi, El Moatez Billah",
+    author = "Abdul-Mageed, Muhammad  and Zhang, Chiyu  and Hashemi, Azadeh  and Nagoudi, El Moatez Billah",
     booktitle = "Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection",
     month = may,
     year = "2020",
