@@ -130,11 +130,20 @@ If you have any questions about this dataset please contact us @ *muhammad.magee
 ## Reference/Citation:
 Please cite our work: 
 ```
-@inproceedings{mageed2020aranet,
-  title={AraNet: A Deep Learning Toolkit for Arabic Social Media},
-  author={Abdul-Mageed, Muhammad and Zhang, Chiyu and Hashemi, Azadeh and others},
-  booktitle={Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection},
-  pages={16--23},
-  year={2020}
+@inproceedings{abdul-mageed-etal-2020-aranet,
+    title = "{A}ra{N}et: A Deep Learning Toolkit for {A}rabic Social Media",
+    author = "Abdul-Mageed, Muhammad  and
+      Zhang, Chiyu  and
+      Hashemi, Azadeh  and
+      Nagoudi, El Moatez Billah",
+    booktitle = "Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resource Association",
+    url = "https://www.aclweb.org/anthology/2020.osact-1.3",
+    pages = "16--23",
+    language = "English",
+    ISBN = "979-10-95546-51-1",
 }
 ```
