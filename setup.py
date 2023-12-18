@@ -11,7 +11,7 @@ setup(name='aranet',
       install_requires=[
           'tensorflow-gpu',
           'torch',
-          'sklearn',
+          'scikit-learn',
           'transformers==2.3.0', 'keras', 'pandas', 'numpy'
       ],
 
